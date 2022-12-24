@@ -1,1 +1,1 @@
-Init with fluid theme.
+Init with Fluid theme.
