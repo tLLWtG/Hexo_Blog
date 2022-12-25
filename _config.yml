@@ -19,7 +19,7 @@ url: https://tllwtg.github.io/Hexo_Blog
 # local
 #root: 
 # pages
-root: Hexo_Blog
+#root: Hexo_Blog
 
 permalink: :year/:month/:day/:title/
 permalink_defaults:
