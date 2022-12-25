@@ -3,18 +3,21 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: tLLWtG Blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: tLLWtG
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://tllwtg.github.io/Hexo_Blog
-#fluid
+#fluid root
+# local
+#root: 
+# pages
 root: Hexo_Blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
